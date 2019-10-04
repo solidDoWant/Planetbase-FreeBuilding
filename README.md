@@ -1,4 +1,4 @@
-# Planetbase-TimeMod
+# Planetbase-FreeBuilding
 
 This is an update of João Farias' "Free Building" mod, written to be compatible with my modding framework. 90% of the code in this project (specifically the contents of the "ReplacementMethod" in this file: https://github.com/solidDoWant/Planetbase-FreeBuilding/blob/master/Planetbase-FreeBuilding/Patches/Planetbase/Module/CanPlaceModuleClass.cs) is his code.
 
