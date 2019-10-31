@@ -9,7 +9,7 @@ using Planetbase_FreeBuilding;
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("solidDoWant")]
-[assembly: AssemblyProduct("FreeBuilding-TimeMod")]
+[assembly: AssemblyProduct("FreeBuilding-FreeBuilding")]
 [assembly: AssemblyCopyright("Copyright ©  2019")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
